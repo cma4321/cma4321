@@ -1,6 +1,6 @@
 <h3> Hello World! Welcome to my profile! </h3>
 
-📫 Contact me: caio.moraes8@hotmail.com
+📫 email: caio.moraes8@hotmail.com
 
 <div align="center">
   <a href="https://github.com/cma4321">
