@@ -16,7 +16,9 @@
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Caio-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
     
-  <h1>  <img align="right" alt="Rafa-pic" height="225" style="border-radius:50px;" src="http://pm1.narvii.com/6535/b11c3e03d37d996fce7a1ae4f31bd4c39469ef17_00.jpg"></h1>
+  <h1>  <img align="right" alt="Rafa-pic" height="225" style="border-radius:50px;" 
+             src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=BeardLight&facialHairColor=Brown&clotheType=Hoodie&clotheColor=Red&eyeType=Happy&eyebrowType=UpDown&mouthType=Smile&skinColor=Light'/> 
+  </h1>
 </div>
   
   ##
