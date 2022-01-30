@@ -1,7 +1,12 @@
-<h3> Hello World! Welcome to my profile! </h3>
-
+<h3> Hello World! I'm Caio, welcome to my profile!
+<img src = "https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-brazil.gif" width="30px" /> 
+</h3>
 📫 email: caio.moraes8@hotmail.com
+<br><br>
 
+## ⚙️ &nbsp;GitHub Analytics
+
+  
 <div align="center">
   <a href="https://github.com/cma4321">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cma4321&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
